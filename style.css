@@ -1,0 +1,11 @@
+.medium {
+    font-size: 16px; 
+}
+
+/* Custom CSS for adjusting the position of the "Live News" text */
+.live-news {
+    margin-top: -48px;
+    text-align: center;
+}
+
+
